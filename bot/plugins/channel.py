@@ -355,4 +355,3 @@ async def new_files(bot: Bot, update):
             data.append(data_packets)
         await db.add_filters(data)
     return
-
