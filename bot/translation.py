@@ -7,10 +7,9 @@ class Translation(object):
     START_TEXT = """<b><u>How are you! {}!!</b></u>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-You can't Add me to your Group 🔥🔥😝
 
 For More Details Click Help Button Below..
-@MOVIESWORLDI
+@entertainmentbox123
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +42,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Scar_Jo">Scar Jo</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Otaku_Chaann">Black_ADAM</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
